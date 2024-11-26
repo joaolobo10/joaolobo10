@@ -3,8 +3,8 @@
 - Atualmente estou participando de um projeto de iniciação científica (PIBITI) sendo, Desenvolvimento de Mundo Aberto para Ensaios Virtuais de Veículos no Software Open Automotive Simulator. Também estou participando do desenvolvimento de uma IA, para identificar doenças de plantas através de fotos, onde esse projeto faz parte de uma Matéria da faculdade à qual eu estudo (UnB).
 - Estou estudando desenvolvimento de jogos na Unreal Engine. E também estudando Expo, Java Script, React Native e Python.
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolobo10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolobo10&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolobo10&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolobo10&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
 <div style="display: inline_block"><br>
   <img align="center" alt="Lobo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lobo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
