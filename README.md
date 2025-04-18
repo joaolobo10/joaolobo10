@@ -1,3 +1,5 @@
+![banner](./banner-github.png)
+
 <h1 align="center">Yo 👋</h1>
 <h3 align="center">Dev from Brazil. 🇧🇷 </h3>
 <p align="center">Software Engineering student at the University of Brasília and Systems Analysis and Development student at IESB. 
