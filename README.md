@@ -6,7 +6,7 @@
 
 #
 
-- ➿ I’m currently working on [Painel V2](https://github.com/FGRUnB/Painel_V2), Open-world development for automotive software using Unreal Engine 5 and My portfolio.
+- ➿ I’m currently working on [Painel V2](https://github.com/FGRUnB/Painel_V2), Open-world development for automotive software using Unreal Engine 5 and sitedoisnovemeia.
 
 - 📔 I’m currently learning **Typescript**, **React js**, **Next Js**, **Tailwind CSS**, **Three Js** and **Python**
 
