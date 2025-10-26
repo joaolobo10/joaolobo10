@@ -1,14 +1,12 @@
-![banner](./banner-github.png)
-
 <h1 align="center">Yo 👋</h1>
 <h3 align="center">Dev from Brazil. 🇧🇷 </h3>
 <p align="center">Software Engineering student at the University of Brasília and Systems Analysis and Development student at IESB. 
 
 #
 
-- ➿ I’m currently working on [Painel V2](https://github.com/FGRUnB/Painel_V2), Open-world development for automotive software using Unreal Engine 5 and sitedoisnovemeia.
+- ➿ I’m currently working on My portfolio, Open-world development for automotive software using Unreal Engine 5 and sitedoisnovemeia.
 
-- 📔 I’m currently learning **Typescript**, **React js**, **Next Js**, **Tailwind CSS**, **Three Js** and **Python**
+- 📔 I’m currently learning **Python**, **Generative AI **, **Unreal Engine Levels** and **Data science in general**
 
 <h3 align="left">Connect with me!</h3>
 <div>
