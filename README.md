@@ -4,9 +4,9 @@
 
 #
 
-- ➿ I’m currently working on My portfolio, Open-world development for automotive software using Unreal Engine 5 and sitedoisnovemeia.
+- ➿ I’m currently working on My portfolio, Open-world development for automotive software using Unreal Engine 5 and Mango(project).
 
-- 📔 I’m currently learning **Python**, **Generative AI**, **Unreal Engine Levels** and **Data science in general**
+- 📔 I’m currently learning **Angular**, **AI**, **Cloud**, **Programming in general**
 
 <h3 align="left">Connect with me!</h3>
 <div>
