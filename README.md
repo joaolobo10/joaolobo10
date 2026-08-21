@@ -4,9 +4,9 @@
 
 #
 
-- ➿ I’m currently working on My portfolio, Open-world development for automotive software using Unreal Engine 5 and Mango(project).
+- ➿ I’m currently working on My own project Mango;
 
-- 📔 I’m currently learning **Angular**, **AI**, **Cloud**, **Programming in general**
+- 📔 I’m currently learning **Angular**, **AI**, **Cloud**, **Competitive Programming**, **Programming in general**.
 
 <h3 align="left">Connect with me!</h3>
 <div>
