@@ -6,7 +6,7 @@
 
 - ➿ I’m currently working on My own project Mango;
 
-- 📔 I’m currently learning **Angular**, **AI**, **Cloud**, **Competitive Programming**, **Programming in general**.
+- 📔 I’m currently learning **Deep Learning**, **Machine Learning**, **Computer Vision**, **Python**, **Programming in general**.
 
 <h3 align="left">Connect with me!</h3>
 <div>
