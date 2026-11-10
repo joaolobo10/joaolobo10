@@ -4,9 +4,9 @@
 
 #
 
-- ➿ I’m currently working on My own project Mango;
+- ➿ I’m currently working on My Klik;
 
-- 📔 I’m currently learning **Deep Learning**, **Machine Learning**, **Computer Vision**, **Python**, **Programming in general**.
+- 📔 I’m currently learning **Deep Learning**, **Machine Learning**, **Computer Vision**, **Python**, **Gaussian Splatting**.
 
 <h3 align="left">Connect with me!</h3>
 <div>
@@ -29,16 +29,6 @@
   <img align="center" alt="Lobo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lobo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Lobo-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-  
-##
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaolobo10&show_icons=true&locale=en&bg_color=000&title_color=876FDD&text_color=FFF&border_radius=3&border_color=1668AB&icon_color=876FDD&theme=jolly" alt="joaolobo10">
-  </div>
 </div>
 
 ##
